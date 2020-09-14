@@ -11,6 +11,7 @@
     <modules>
         <module>netty-server</module>
         <module>netty-client</module>
+        <module>old-io-test</module>
     </modules>
     <properties>
         <echo-server.hostname>localhost</echo-server.hostname>
